@@ -1,0 +1,13 @@
+{
+  "name": "reuse-hooks",
+  "version": "0.1.0",
+  "description": "React custom hooks",
+  "main": "index.js",
+  "repository": "https://github.com/trainto/reuse-hooks",
+  "author": "trainto <trainto@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
